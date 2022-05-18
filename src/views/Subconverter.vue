@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://subconverter.ccllssd.com/api/sub?" }],
         remoteConfig: [
           {
             label: "universal",
@@ -268,7 +268,7 @@ export default {
               {
                 label: "Urltest",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/urltest.ini"
+                  "https://raw.githubusercontent.com/oshino29/subconverter-config/master/remote-config/universal/urltest.ini"
               }
             ]
           },
